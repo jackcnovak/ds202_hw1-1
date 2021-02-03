@@ -1,1 +1,18 @@
+---
+title: 'Partner Changes'
+author: 'Ryan Scehovic'
+output: html_document
+---
 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My name is Ryan Scehovic and my github username is scehovic
+
+The Owner, Eric Steyer, added his 2 files in the most recent commit. The commit id is 5a772b23c66f3032faf77026abcc035d539ae110
+
+I was able to knit the owner's hw1.Rmd without any errors. 
+
+The most difficult part was navigating each others repos and keeping things organized between our group of 3. 
